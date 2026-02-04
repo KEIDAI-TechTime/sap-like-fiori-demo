@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd '未来住建-生産調達システム-(sap-fiori-style)' && npm install",
+  "buildCommand": "cd '未来住建-生産調達システム-(sap-fiori-style)' && npm run build",
+  "outputDirectory": "未来住建-生産調達システム-(sap-fiori-style)/dist"
+}
